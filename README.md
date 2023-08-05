@@ -1,4 +1,4 @@
-Alexa purchase prediciton 
+**Alexa purchase prediciton **  
 Prototyped a Alexa purchase system that predicts if a person is intersted in buying a product based on certain factors by Implmenting 3 models such as Logistic Regression, K-Nearest Neighbours and Naive-Bayes classifier and achieved the best accuracy of 93% using K-NN.
 
 Purchase of alexa depends primarily on 2 factors i.e. age group a person belongs to and minutes of music listened.
