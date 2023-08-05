@@ -4,14 +4,6 @@ Created on Fri Aug  4 19:36:36 2023
 
 @author: nayan
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 6 00:22:29 2022
-
-@author: hp
-
-"""
 #Implementing Logistic Regression
 
 
