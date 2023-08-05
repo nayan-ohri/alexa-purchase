@@ -4,7 +4,7 @@ Prototyped a Alexa purchase system that predicts if a person is intersted in buy
 Purchase of alexa depends primarily on 2 factors i.e. age group a person belongs to and minutes of music listened.
 This model plots a comparison plot of accuracies achieved by the three models.
 
-This image represents the model performance on test set when achieved through logistic regression.
+This image represents the model performance on test set when achieved through logistic regression
 ![Logistic-Regression test_set](https://github.com/nayan-ohri/alexa-purchase/assets/128474094/95775978-f53e-48ab-b3ec-261736e46fbb)
 
 This image represents the model performance on test set when achieved through K-NN.
